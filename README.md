@@ -1,16 +1,21 @@
-## Hi there 👋
+**Hi, I'm Dharini Panchal 👋**
 
-<!--
-**Dharini-Panchal/Dharini-Panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support | Software Developer | QA Enthusiast
 
-Here are some ideas to get you started:
+**Skills:**
+- Technical Support
+- Flutter
+- Swift
+- Laravel
+- SQL
+- APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- Help Desk Ticketing System
+- Expense Tracker
+- Weather App
+
+**Contact:**
+LinkedIn: https://www.linkedin.com/in/dharini-panchal-a85642424/
+Email: dharini.panchal.29@gmail.com
+Portfolio: https://dainty-marzipan-9c869e.netlify.app/
